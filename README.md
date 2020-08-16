@@ -1,4 +1,4 @@
 # Demo
 
-Calculator App
+Scientific Calculator App
 
